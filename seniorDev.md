@@ -1,4 +1,3 @@
-```markdown
 ## From C# Developer to Cybersecurity Hero 🚀
 
 As a **C# developer**, you already understand **90% of the logic** required for **Java** and **Python**. The jump to *Hero* status in cybersecurity isn’t about relearning `for` loops—it’s about mastering **security frameworks** and **automation libraries** unique to each ecosystem.
@@ -85,4 +84,3 @@ Which phase of the **Java Secure Development** path should we dive into first?
 - **Vulnerability Mitigation** (OWASP Top 10)
 
 Pick one, and we’ll go deep 🔐🔥
-```
